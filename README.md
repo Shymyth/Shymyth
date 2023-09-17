@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw3HulVtOfuIGZuFXcs5IHQu&ust=1695048744003000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj7jeTysYEDFQAAAAAdAAAAABAX)
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://camo.githubusercontent.com/6dafd3951d7dbb4a392131f91b79ce6eddd47a4f690e8c2d910be9dbad373480/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3739353539372f73637265656e73686f74732f363038313434342f6d6f62696c655f646576656c6f706d656e74322e676966">
