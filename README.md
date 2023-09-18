@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
+![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
