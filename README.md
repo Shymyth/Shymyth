@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+[![An image of @saikatmitra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatmitra07)](https://holopin.io/@saikatmitra07)
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
