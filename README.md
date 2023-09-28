@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering**
 
-- 🌱 I’m currently learning **C++, Python, scikit-learn, Numpy, Pandas**
+- 🌱 I’m currently learning **C++, Python, scikit-learn, Numpy**
 
 - 📫 How to reach me **chatwithsaikat@gmail.com**
 
