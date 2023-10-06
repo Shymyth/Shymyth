@@ -1,4 +1,4 @@
-(https://holopin.me/saikatmitra07)](https://holopin.io/@saikatmitra07)
+
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
