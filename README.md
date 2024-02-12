@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I Love Photography**
 
 <h3 align="left"> </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saikat-Mitra-07" alt="Saikat-Mitra-07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shymyth" alt="Saikat-Mitra-07" /></a> </p>
 <p align="left">
 </p>
 
