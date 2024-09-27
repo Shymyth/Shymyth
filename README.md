@@ -1,3 +1,5 @@
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.28/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/hIP232HO5bcSS1IN/scene.splinecode"></spline-viewer>
 ![An image of @saikatmitra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatmitra07)
 import Spline from '@splinetool/react-spline/next';
 
