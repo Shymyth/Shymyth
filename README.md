@@ -1,18 +1,4 @@
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.28/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/hIP232HO5bcSS1IN/scene.splinecode"></spline-viewer>
 ![An image of @saikatmitra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatmitra07)
-import Spline from '@splinetool/react-spline/next';
-
-export default function Home() {
-  return (
-    <main>
-      <Spline
-        scene="https://prod.spline.design/hIP232HO5bcSS1IN/scene.splinecode" 
-      />
-    </main>
-  );
-}
-
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
