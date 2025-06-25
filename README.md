@@ -1,6 +1,6 @@
 ![An image of @saikatmitra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatmitra07)
 <h1 align="center">Hi 👋, I'm Saikat Mitra</h1>
-<h3 align="center">A passionate machine learning developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatmitra07&label=Profile%20views&color=0e75b6&style=flat" alt="saikatmitra07" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering **
 
-- 🌱 I’m currently learning **C++, Python, scikit-learn, Numpy**
+- 🌱 I’m currently learning **Node Js, React Js**
 
 - 📫 How to reach me **chatwithsaikat@gmail.com**
 
