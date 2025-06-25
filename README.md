@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shymyth&show_icons=true&locale=en&layout=compact" alt="saikat-Mitra-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shymyth&show_icons=true&locale=en" alt="saikat-Mitra-07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shyyth&show_icons=true&locale=en" alt="saikat-Mitra-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shymyth&" alt="saikat-Mitra-07" /></p>
