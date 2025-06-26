@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering **
+- 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering  **
 
 - 🌱 I’m currently learning **Node Js, React Js**
 
