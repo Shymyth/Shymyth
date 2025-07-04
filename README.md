@@ -1,4 +1,4 @@
-<h1 align="center" font-size="34px">Hi 👋, I'm Saikat Mitra</h1>
+<h1 align="center"">Hi 👋, I'm Saikat Mitra</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <img aling="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif">
 
